@@ -1,5 +1,5 @@
 # ePC_dHCP
-Code for our paper "**Edge participation coefficient unveiling the developmental** **dynamics of neonatal functional connectome**"
+Code for our paper "**Edge participation coefficient unveiling the developmental** **dynamics of neonatal functional connectome**", which can be accessed at https://doi.org/10.1038/s42003-025-08873-4.
 
 # dependencies and requirements
 These scripts use MATLAB and Rstudio. They were tested using MATLAB 2022a on CentOS Linux 7.9.2009 and R 4.4.3 on Windows 11 24H2.
